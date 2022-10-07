@@ -18,9 +18,8 @@ const userData = {
     title:
       "I'm a software developer that loves building products and web applications that impact millions of lives",
     description: [
-      `I've been developing web application for 1 years. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `I've been coding in React, Vue, Bootstrap programming language etc to name a few.`,
+      `I have been interested in web programming for about a year. Although it was very difficult for me at the beginning to want to advance in this field, regardless of the department I studied, I currently have a company that I have worked for, and also a software team that I created with my friends.`,
+      `I have used many programming languages and frameworks in this whole process. Some of the technologies I know and use are listed below.`,
     ],
     currentProject: "Jely Labs",
     currentProjectUrl: "https://www.jelylabs.com/",
